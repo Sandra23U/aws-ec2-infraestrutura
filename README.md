@@ -6,6 +6,7 @@ Criar uma infraestrutura simples na AWS utilizando uma instância EC2 para hospe
 
 ![AWS](https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws)  
 ![Bootcamp](https://img.shields.io/badge/DIO-Bootcamp-success?style=for-the-badge) 
+<img width="480" height="480" alt="e88c99b2-7f0a-40a6-bd75-92fde1acd0f8" src="https://github.com/user-attachments/assets/6ecbd8c7-81e1-46aa-a6c8-7b3fdb1c6f1a" />
 
 
 ## Arquitetura
