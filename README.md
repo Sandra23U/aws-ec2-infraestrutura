@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este projeto apresenta um **diagrama de infraestrutura na AWS** criado no **draw.io (diagrams.net)**.
+Criar uma infraestrutura simples na AWS utilizando uma instância EC2 para hospedar uma aplicação web.**diagrama de infraestrutura na AWS** criado no **draw.io (diagrams.net)**.
 
 ![AWS](https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws)  
 ![Bootcamp](https://img.shields.io/badge/DIO-Bootcamp-success?style=for-the-badge)  
