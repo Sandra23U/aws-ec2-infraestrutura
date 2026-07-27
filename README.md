@@ -45,6 +45,18 @@ Amazon EC2
 - **EC2 Instance:** Máquina virtual onde a aplicação pode ser hospedada.  
 - **Security Group:** Firewall virtual que controla as regras de entrada e saída da instância EC2.  
 
+## Etapas do Projeto
+1 . Criar uma VPC.
+2 . Criar uma Subnet Pública.
+3 . Configurar o Internet Gateway.
+4 . Criar um Security Group liberando as portas:
+22 (SSH)
+80 (HTTP)
+5 . Criar uma instância Amazon EC2.
+6 . Conectar via SSH.
+7 . Instalar um servidor web (Apache ou Nginx).
+8 . Testar o acesso pelo navegador.
+
 ## Fluxo de Comunicação: 🔗
 1. O **usuário** acessa a aplicação pela **Internet**.  
 2. O tráfego passa pelo **Internet Gateway (IGW)**.  
