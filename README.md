@@ -45,7 +45,7 @@ Amazon EC2
 - **EC2 Instance:** Máquina virtual onde a aplicação pode ser hospedada.  
 - **Security Group:** Firewall virtual que controla as regras de entrada e saída da instância EC2.  
 
-## Etapas do Projeto
+## Etapas do Projeto: 🔗
 1 . Criar uma VPC.
 2 . Criar uma Subnet Pública.
 3 . Configurar o Internet Gateway.
