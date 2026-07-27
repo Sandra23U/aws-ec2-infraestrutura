@@ -7,6 +7,22 @@ Criar uma infraestrutura simples na AWS utilizando uma instância EC2 para hospe
 ![AWS](https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws)  
 ![Bootcamp](https://img.shields.io/badge/DIO-Bootcamp-success?style=for-the-badge)  
 
+## Arquitetura
+
+Usuário
+    │
+Internet
+    │
+Internet Gateway
+    │
+VPC
+    │
+Subnet Pública
+    │
+Security Group
+    │
+Amazon EC2
+
 ## Diagrama: 📊
 
 ![Diagrama da Infraestrutura](./infraestrutura-basica.drawio.png)
