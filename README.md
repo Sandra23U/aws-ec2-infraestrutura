@@ -29,6 +29,13 @@ Amazon EC2
 
 ## Serviços Utilizados
 
+### Amazon EC2
+### Amazon VPC
+### Internet Gateway
+### Security Group
+### Amazon EBS
+### Par de Chaves (Key Pair)
+
 ## Componentes Utilizados: 🛠️
 - **Usuário (Cliente):** Origem das requisições para a aplicação.  
 - **Internet:** Representa a rede pública que conecta os usuários à AWS.  
