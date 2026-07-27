@@ -47,6 +47,7 @@ Amazon EC2
 
 ## Etapas do Projeto: 🔗
 1 . Criar uma **VPC**.
+
 2 . Criar uma Subnet Pública.
 3 . Configurar o Internet Gateway.
 4 . Criar um Security Group liberando as portas:
