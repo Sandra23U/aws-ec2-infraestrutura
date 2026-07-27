@@ -80,8 +80,15 @@ Esse é um diagrama **básico**, que pode ser expandido futuramente.
 ## Melhorias Futuras
 
 **Adicionar Load Balancer**.
+
 **Configurar Auto Scaling**.
+
 **Utilizar Amazon RDS**.
+
 **Armazenar arquivos no Amazon S3**.
+
 **Monitorar com Amazon CloudWatch**.
-**Automatizar a criação da infraestrutura utilizando AWS** **CloudFormation ou Terraform**.
+
+**Automatizar a criação da infraestrutura utilizando AWS**
+
+ **CloudFormation ou Terraform**.
