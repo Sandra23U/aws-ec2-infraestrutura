@@ -1,4 +1,4 @@
-# Infraestrutura AWS com EC2
+# Projeto: Infraestrutura Básica com Amazon EC2
 
 Este projeto apresenta um **diagrama de infraestrutura na AWS** criado no **draw.io (diagrams.net)**.
 
