@@ -1,5 +1,7 @@
 # Projeto: Infraestrutura Básica com Amazon EC2
 
+## Objetivo
+
 Este projeto apresenta um **diagrama de infraestrutura na AWS** criado no **draw.io (diagrams.net)**.
 
 ![AWS](https://img.shields.io/badge/AWS-CloudFormation-orange?style=for-the-badge&logo=amazonaws)  
