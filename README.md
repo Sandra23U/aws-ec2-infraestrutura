@@ -27,6 +27,8 @@ Amazon EC2
 
 ![Diagrama da Infraestrutura](./infraestrutura-basica.drawio.png)
 
+## Serviços Utilizados
+
 ## Componentes Utilizados: 🛠️
 - **Usuário (Cliente):** Origem das requisições para a aplicação.  
 - **Internet:** Representa a rede pública que conecta os usuários à AWS.  
